@@ -88,7 +88,7 @@ We want to allow teachers to assign a skill to students.
 
 ## Send us the results
 
-- Use either **Javascript**, **Typescript** or **Python** to answer to this test
+- Use either **Javascript** or **Typescript** to answer to this test
 - Fork this project and write your code in the fork
 - Create at least one commit per level
 - In `report.md`, explain your design choices, the time you spent working on the project, what issues you had/what took you longer than expected
