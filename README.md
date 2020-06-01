@@ -89,8 +89,10 @@ We want to allow teachers to assign a skill to students.
 ## Send us the results
 
 - Use either **Javascript** or **Typescript** to answer to this test
-- Fork this project and write your code in the fork
-- Create at least one commit per level
-- In `report.md`, explain your design choices, the time you spent working on the project, what issues you had/what took you longer than expected
+- In `report.md`:
+  - explain your choices
+  - what issues you had/what took you longer than expected
+  - what are the limitation you see in the system
+  - if any, your vision on how the recommendation system could evolve
 - Create a pull request
 - **Focus on code quality and readability. Don't focus on finishing all of the levels**
